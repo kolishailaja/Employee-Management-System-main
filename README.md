@@ -129,3 +129,4 @@ Issue	Solution
 ClassNotFoundException: com.mysql.cj.jdbc.Driver	Add MySQL Connector/J to lib folder
 Database connection failed	Check username, password, MySQL service
 404 Error on JSP	Check Servlet mappings in web.xml
+<img width="1487" height="897" alt="day3javaprojectss" src="https://github.com/user-attachments/assets/7ab00a1a-c0f8-4439-8e1c-e0e775b75b02" />
